@@ -5,5 +5,6 @@
 - Run `./build-dependencies.sh`
 - Open `swift/SpectreConsoleSwift/Package.swift` in Xcode
 - Build and Run
+- Have fun:
 
 <img width="1192" height="703" alt="Screenshot 2025-10-08 at 12 23 51" src="https://github.com/user-attachments/assets/b3e781f6-62fc-4360-8a29-192ed766c0d8" />
