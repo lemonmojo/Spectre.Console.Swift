@@ -1,0 +1,19 @@
+{
+    "AssemblyPath": "Spectre.Console.Swift/bin/Release/net10.0/publish/Spectre.Console.dll",
+
+    "Build": {
+        "Target": "apple-universal",
+        "ProductOutputPath": "generated",
+        "ProductName": "SpectreConsoleKit",
+        "ProductBundleIdentifier": "com.lemonmojo.spectreconsolekit",
+        "NoWarn": [
+            "SYSLIB5006"
+        ]
+    },
+
+    "EmitUnsupported": true,
+
+    "CSharpUnmanagedOutputPath": "generated/Generated_CS.cs",
+    "COutputPath": "generated/Generated_C.h",
+    "SwiftOutputPath": "generated/Generated_Swift.swift"
+}
