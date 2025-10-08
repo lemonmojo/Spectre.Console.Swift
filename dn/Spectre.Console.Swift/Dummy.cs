@@ -1,6 +1,9 @@
-﻿namespace Spectre.Console.Swift;
+﻿using Spectre.Console;
 
-public class Dummy
+namespace Spectre.Console.Swift
 {
+	public class Dummy
+	{
 
+	}
 }
